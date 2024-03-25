@@ -1,0 +1,10 @@
+images/
+verification_images/
+detected_faces/
+*.png
+*.csv
+RF_Transcript_Improvement/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb
